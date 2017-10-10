@@ -1,0 +1,34 @@
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Control.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe.config
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.exe.config
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.Control.resources
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.pdb
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.exe.config
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.exe
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.pdb
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\bin\Debug\Line Production.xml
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.Control.resources
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.exe
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.xml
+D:\VIP\vb 2015\Man hinh Line production\Line Production Fuji\Line Production\obj\Debug\Line Production.pdb
